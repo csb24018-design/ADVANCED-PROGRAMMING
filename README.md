@@ -2,12 +2,15 @@
 Assignment 1: Time Complexity Analysis
 Language: C
 Question: Write a C program to analyze time complexities in constant time, linear time and quadratic time. Increase the size of input to check the time consumed.
+
 Assignment 2: Space Complexity Analysis
 Language: C
 Question: Write a C program for three different operations as stated in question 1 to analyze the space complexity.
+
 Assignment 3: Book Search using ArrayList
 Language: Java
 Question: Write a Java program using ArrayList to store book titles. Add at least 5 books and search for books whose title contains a given word.
+
 Assignment 4: Product Stock Tracking
 Language: Python
 Question: Create a Python program using a list and dictionary to store products with name and stock quantity. Display all products whose stock is less than 10.
